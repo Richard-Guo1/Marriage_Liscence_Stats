@@ -13,7 +13,7 @@ library(tidyverse)
 
 
 #### Simulate data ####
-set.seed(304)
+set.seed(777)
 
 # Define the start and end date
 start_date <- as.Date("2018-01-01")
@@ -32,7 +32,7 @@ data <-
       ),
       origin = "1970-01-01"
     ),
-    number_of_marriage = rpois(n = number_of_dates, lambda = 15)
+    number_of_marriage = rpois(n = number_of_dates, lambda = 10)
   )
 
 
