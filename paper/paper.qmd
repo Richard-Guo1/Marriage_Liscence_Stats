@@ -1,9 +1,9 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: "A Simulation of Marriage Data compared to Real Marriage Data in Toronto"
+subtitle: ""
 author: 
-  - Rohan Alexander
-thanks: "Code and data are available at: LINK."
+  - Richard Guo
+thanks: "Code and data are available at: https://github.com/stuckinidolhell/Marriage_Liscence_Stats.git."
 date: today
 date-format: long
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
