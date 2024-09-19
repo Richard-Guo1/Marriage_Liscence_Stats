@@ -1,8 +1,8 @@
 #### Preamble ####
 # Purpose: Sanity check of the data
-# Author: Rohan Alexander
+# Author: Richard Guo
 # Date: 19 September 2024
-# Contact: rohan.alexander@utoronto.ca
+# Contact: richard.guo@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: Need to have simulated data
 # Any other information needed? None.
