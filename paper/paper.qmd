@@ -6,7 +6,7 @@ author:
 thanks: "Code and data are available at: https://github.com/stuckinidolhell/Marriage_Liscence_Stats.git."
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "The author of the paper wished to see if people of Toronto"
 format: pdf
 number-sections: true
 bibliography: references.bib
