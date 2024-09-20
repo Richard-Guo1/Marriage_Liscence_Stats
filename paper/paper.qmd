@@ -26,7 +26,7 @@ data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
 
 # Introduction
 
-You can and should cross-reference sections and sub-sections. We use @talia, @opendatatorotno, and @rohan.
+You can and should cross-reference sections and sub-sections. We use @talia, @opendatatoronto, and @rohan.
 
 The remainder of this paper is structured as follows. @sec-mydatasection
 
@@ -34,11 +34,11 @@ The remainder of this paper is structured as follows. @sec-mydatasection
 
 # Data {#sec-mydatasection}
 
-Below is the simulated data following the null-hypothesis (@fig-marriage), from @rohan.
+Below is a graph reflecting the number of marriages per month from 2011 to 2025 across all sectors of Toronto (@fig-marriage), from @opendatatoronto.
 
 ```{r}
 #| label: fig-marriage
-#| fig-cap: Simulated Marriages
+#| fig-cap: Number of Marriages per Month in Toronto
 #| echo: false
 
 data |> 
@@ -47,7 +47,7 @@ data |>
 
 ```
 
-Talk more about it.
+From the years 2011 through 2020, we can observe similar trends and the amount of marriages month over month and year over year. During 2020 and the following years, a significant decrease in the amount of marriage licences is also observable. A simple conjecture is that the decrease was caused by the lock-downs in response to the Covid-19 pandemic. A sudden spike in the number of marriages c. March 2022 aligns with when many social distancing restrictions were loosened in Toronto.
 
 And also planes (@fig-planes). (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work well once you have enough text.)
 
