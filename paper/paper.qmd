@@ -6,7 +6,7 @@ author:
 thanks: "Code and data are available at: https://github.com/stuckinidolhell/Marriage_Liscence_Stats.git."
 date: today
 date-format: long
-abstract: "The author of the paper wished to see if people of Toronto"
+abstract: "The Covid-19 Pandemeic caused economic slowdowns in multiple sectors in Toronto. This paper aims to discover if the Marriage industry was one of the affected sectors. A Null-hypothesis of no change in the number of marriages was modeled with a random poisson distribution with Lambda of 10. It can be rejected if the data taken from Open Data Toronto looks significantly different."
 format: pdf
 number-sections: true
 bibliography: references.bib
