@@ -3,7 +3,7 @@ title: "A Simulation of Marriage Data compared to Real Marriage Data in Toronto"
 subtitle: ""
 author: 
   - Richard Guo
-thanks: "Code and data are available at: https://github.com/stuckinidolhell/Marriage_Liscence_Stats.git."
+thanks: "Code and data are available at: https://github.com/Richard-Guo1/Marriage_Liscence_Stats.git."
 date: today
 date-format: long
 abstract: "The Covid-19 Pandemeic caused economic slowdowns in multiple sectors in Toronto. This paper aims to discover if the Marriage industry was one of the affected sectors. A Null-hypothesis of no change in the number of marriages was modeled with a random poisson distribution with Lambda of 10. It can be rejected if the data taken from Open Data Toronto looks significantly different."
@@ -34,11 +34,11 @@ The remainder of this paper is structured as follows. @sec-mydatasection
 
 # Data {#sec-mydatasection}
 
-Some of our data is of penguins (@fig-marriage), from @palmerpenguins.
+Below is the simulated data following the null-hypothesis (@fig-marriage), from @rohan.
 
 ```{r}
 #| label: fig-marriage
-#| fig-cap: Bills of penguins
+#| fig-cap: Simulated Marriages
 #| echo: false
 
 data |> 
